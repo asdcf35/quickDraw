@@ -1,0 +1,13 @@
+#flex{
+  display: flex;
+  justify-content: space-between;
+}
+#flex > *{
+  margin: 5vw;
+}
+canvas{
+  margin: auto;
+}
+body{
+  background-color: #ffc49b;
+}
